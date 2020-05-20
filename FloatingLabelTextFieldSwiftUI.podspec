@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
- FloatingLabelTextField is a small and lightweight SwiftUI framework that allows to create beautiful and customisable floating label textfield!
+ FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework that allows to create beautiful and customisable floating label textfield!
                        DESC
 
   s.homepage         = 'https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI'
